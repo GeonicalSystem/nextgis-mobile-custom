@@ -31,8 +31,9 @@ related_code:
 maplib PR #20 [`4323cb0`](https://github.com/GeonicalSys/android_maplib/commit/4323cb00bc9d03c3e183afdce6dc1b7012266831)
 (содержит #19/#18) и
 maplibui PR #12 [`5d48122`](https://github.com/GeonicalSys/android_maplibui/commit/5d48122d236769afb0f37247e0b3aa4c0ff8f604)
-(содержит #11). Текущие открытые PR #21/#13 добавляют исправления поверх этой базы;
-app #26 пока использует промежуточные feature pins и требует repin после merge.
+(содержит #11). Выпуск `3.1.2.18` дополнительно закрепляет Merge Commit
+maplib PR #21 [`761d7a2`](https://github.com/GeonicalSys/android_maplib/commit/761d7a244a6a849cba709de1bfc6f0f1b7b034c4)
+и maplibui PR #13 [`223f8b04`](https://github.com/GeonicalSys/android_maplibui/commit/223f8b041d05d9261e3a552128a160cb8ffb4b3c).
 
 - GeonicalSystem fork base — [`f6daceb`](https://github.com/GeonicalSys/nextgis-mobile-custom/commit/f6dacebcfa2aed2cea329e6d16aaff33acee012b);
 - NextGIS Mobile — [`e098196`](https://github.com/nextgis/nextgis_mobile_android/commit/e0981966c4a5146372e7880d158a95b75305da63);

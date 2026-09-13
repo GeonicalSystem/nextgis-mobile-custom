@@ -20,6 +20,8 @@ related_code:
   обхода/создания точки и после формы, блокировка команд и подтверждение Finish.
 - Обновлены storage, invariants, dependencies, manifests и smoke. Особенность
   имени GPX только в MAX отложена по указанию пользователя.
+- Root закрепляет Merge Commit maplib PR #21 `761d7a2` и maplibui PR #13
+  `223f8b04` вместо промежуточных feature pins.
 
 ## 2026-09-12
 
