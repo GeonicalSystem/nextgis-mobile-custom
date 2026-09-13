@@ -20,6 +20,10 @@ related_code:
   обхода/создания точки и после формы, блокировка команд и подтверждение Finish.
 - Обновлены storage, invariants, dependencies, manifests и smoke. Особенность
   имени GPX только в MAX отложена по указанию пользователя.
+- Описаны общий каталог NGRc/MBTiles, move recovery, потоковая конвертация,
+  межпроектный unlink и отдельный установщик Debug с проверкой exporter.
+  Добавлены registry/smoke и local module packs; версии и desktop/publisher-форматы
+  не менялись.
 
 ## 2026-09-12
 
